@@ -17,7 +17,7 @@ Given the number 123456789, the expected output might look like this:
 Using `deno`
 
 ```
-deno number.ts <number>
+deno number.js <number>
 ```
 
-e.g. `deno number.ts 123456789`
+e.g. `deno number.js 123456789`
